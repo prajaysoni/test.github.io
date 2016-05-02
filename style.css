@@ -7,13 +7,19 @@ main {
 }
 
 ul{
-	list-style-image: url('http://gofitted.com/wp-content/uploads/2015/02/gym9.png');
+	list-style-type: square;
 	font-size: 1.2em;
 	list-style-position: inside;
+	font-family: courier;
 }
 
 .lifts {
 	text-decoration: underline;
+}
+
+#intro {
+	background-image: url('https://femmevalerie.files.wordpress.com/2015/04/barbell.jpg');
+	color: white;
 }
 
 
